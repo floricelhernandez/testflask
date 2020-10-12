@@ -36,6 +36,11 @@ python manage.py db upgrade
 flask run
 ```
 
+## Ejecutar pruebas unitarias
+```bash
+python -m unittest
+```
+
 ## Ejecutar proyecto
 Los ws services están documentados en http://127.0.0.1:5000/docs
 
